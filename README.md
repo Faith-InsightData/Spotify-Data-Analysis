@@ -23,9 +23,9 @@ In this section, we perform a comprehensive analysis of the dataset. Key steps i
 •	Correlation Analysis: Heatmaps to identify potential relationships between different features, such as streams and song attributes.
 
 ## Data Preprocessing
-•	Loading the Dataset: The dataset is imported using pandas, and basic checks for missing values, data types, and descriptive statistics are performed.
-•	Data Cleaning: This involves removing duplicates, handling missing values, and converting data types (e.g., transforming Release Date into datetime format).
-•	Feature Engineering: Additional features, such as song length in minutes or categorizing songs by release year, are created for enhanced analysis.
+#	Loading the Dataset: The dataset is imported using pandas, and basic checks for missing values, data types, and descriptive statistics are performed.
+#	Data Cleaning: This involves removing duplicates, handling missing values, and converting data types (e.g., transforming Release Date into datetime format).
+#	Feature Engineering: Additional features, such as song length in minutes or categorizing songs by release year, are created for enhanced analysis.
 
 ## Key Features
 The analysis delves into various features, including:
