@@ -55,7 +55,7 @@ Visualizations play a critical role in interpreting the dataset and uncovering t
 
 - ![image](https://github.com/user-attachments/assets/cb144564-c762-4d73-a987-a7e11c1be34d)
 
-- 
+  
 ## How do the average track scores compare across different artists?
 
 - ![image](https://github.com/user-attachments/assets/0f497421-6428-41cc-b005-13ac851820b3)
