@@ -50,11 +50,19 @@ Visualizations play a critical role in interpreting the dataset and uncovering t
 
 
 - ![image](https://github.com/user-attachments/assets/91e37749-5eae-43c3-b5df-bf6948e2807b)
-##
-What is the trend of the number of songs released per year?
+
+## What is the trend of the number of songs released per year?
 
 - ![image](https://github.com/user-attachments/assets/cb144564-c762-4d73-a987-a7e11c1be34d)
 
+- 
+## How do the average track scores compare across different artists?
+
+- ![image](https://github.com/user-attachments/assets/0f497421-6428-41cc-b005-13ac851820b3)
+
+ ## Which songs have the most Shazam counts?
+
+- ![image](https://github.com/user-attachments/assets/594bf6e7-3642-4313-9d6a-bf09895ab338)
 
 
 ## Key Insights 💡
