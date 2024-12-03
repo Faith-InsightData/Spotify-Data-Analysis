@@ -46,6 +46,9 @@ Visualizations play a critical role in interpreting the dataset and uncovering t
 - **Release Year Trends**: A line chart showing the evolution of song releases over the years.
 - **Song Duration Distribution**: A histogram illustrating the spread of song durations.
 
+- ![image](https://github.com/user-attachments/assets/91e37749-5eae-43c3-b5df-bf6948e2807b)
+
+
 ## Key Insights 💡
 The analysis reveals several interesting trends, including:
 - **Most Popular Artists**: Insights into which artists dominate the streaming charts.
