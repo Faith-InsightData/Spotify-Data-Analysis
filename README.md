@@ -45,8 +45,16 @@ Visualizations play a critical role in interpreting the dataset and uncovering t
 - **Streams by Artist**: A breakdown of streams across various artists.
 - **Release Year Trends**: A line chart showing the evolution of song releases over the years.
 - **Song Duration Distribution**: A histogram illustrating the spread of song durations.
+- 
+## What is the distribution of Spotify streams for the top 100 most streamed songs?
+
 
 - ![image](https://github.com/user-attachments/assets/91e37749-5eae-43c3-b5df-bf6948e2807b)
+##
+What is the trend of the number of songs released per year?
+
+- ![image](https://github.com/user-attachments/assets/cb144564-c762-4d73-a987-a7e11c1be34d)
+
 
 
 ## Key Insights 💡
